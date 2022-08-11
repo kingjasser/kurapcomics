@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+Body{
+  background-color: black;
+  color: green;
+  text-align: center;
+  align-content: center;
+  font-family: 'Silkscreen', cursive;
+  padding-top: 20px;
+}
+
+img{
+  margin-top: -100px;
+  margin-bottom: -80px;
+  height: 400px;
+  width: 400px;
+}
+
+h1{
+  font-size: 65px;
+}
+
+h3{
+  font-family: 'Arial';
+  margin-top: -20px;
+}
+
+h4{
+  font-family: 'Arial';
+  margin-top: 80px;
+}
+
+p {
+  font-family: 'Arial';
+  color: Green;
+  line-height: normal;
+  font-size: 24px;
+}
+
+span{
+  font-family: 'Arial';
+  color: White;
+  line-height: normal;
+  font-size: 24px;
+}
+
+a{
+  font-family: 'Arial';
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+  font-size: 32px;
+  color: #8beb42;
+  background-color: black;
+  border: 5px Solid #8beb42;
+  border-radius: 2px;
+  text-decoration: none;
+}
+
+a:hover{
+  font-family: 'Arial';
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+  font-size: 32px;
+  color: Black;
+  background-color: #8beb42;
+  border: 5px Solid #8beb42;
+  border-radius: 2px;
+  text-decoration: none;
+}
+
+#choices{
+  width: 200px;
+  height: 200px;
+  border: 5px solid green;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("Images/Spreader1.png");
+  margin-top: 50px;
+}
+
+#choices:hover {
+  width: 200px;
+  height: 200px;
+  background: Black;
+  margin-top: 50px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("Images/Spreader3.jpg");
+  border: 5px solid white;
+}
+
+#opt2{
+  width: 200px;
+  height: 200px;
+  border: 5px solid green;
+  background: Black;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("Images/Soon.jpg");
+  margin-top: 50px;
+}
+
+#opt2:hover {
+  width: 200px;
+  height: 200px;
+  background: Black;
+  margin-top: 50px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("Images/Comingsoon.jpg");
+  border: 5px solid white;
+}
+
+#opt3{
+  width: 200px;
+  height: 200px;
+  border: 5px solid green;
+  background: Black;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("Images/Soon.jpg");
+  margin-top: 50px;
+}
+
+#opt3:hover {
+  width: 200px;
+  height: 200px;
+  background: Black;
+  margin-top: 50px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("Images/Comingsoon.jpg");
+  border: 5px solid white;
+}
+
+#opt4{
+  width: 200px;
+  height: 200px;
+  border: 5px solid green;
+  background: Black;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("Images/About.jpg");
+  margin-top: 50px;
+}
+
+#opt4:hover {
+  width: 200px;
+  height: 200px;
+  background: Black;
+  margin-top: 50px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url("Images/AboutCreator.jpg");
+  border: 5px solid white;
+}
+
+
+
+
+#footnote{
+  margin-top: 20px;
+  font-size: 10px;
+}
