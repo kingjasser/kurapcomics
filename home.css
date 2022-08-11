@@ -78,7 +78,7 @@ a:hover{
   border: 5px solid green;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url("Images/Spreader1.png");
+  background-image: url("kurapcomics/Images/Spreader1.png");
   margin-top: 50px;
 }
 
@@ -89,7 +89,7 @@ a:hover{
   margin-top: 50px;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url("Images/Spreader3.jpg");
+  background-image: url("kurapcomics/Images/Spreader3.jpg");
   border: 5px solid white;
 }
 
@@ -100,7 +100,7 @@ a:hover{
   background: Black;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url("Images/Soon.jpg");
+  background-image: url("kurapcomics/Images/Soon.jpg");
   margin-top: 50px;
 }
 
@@ -111,7 +111,7 @@ a:hover{
   margin-top: 50px;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url("Images/Comingsoon.jpg");
+  background-image: url("kurapcomics/Images/Comingsoon.jpg");
   border: 5px solid white;
 }
 
@@ -122,7 +122,7 @@ a:hover{
   background: Black;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url("Images/Soon.jpg");
+  background-image: url("kurapcomics/Images/Soon.jpg");
   margin-top: 50px;
 }
 
@@ -133,7 +133,7 @@ a:hover{
   margin-top: 50px;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url("Images/Comingsoon.jpg");
+  background-image: url("kurapcomics/Images/Comingsoon.jpg");
   border: 5px solid white;
 }
 
@@ -144,7 +144,7 @@ a:hover{
   background: Black;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url("Images/About.jpg");
+  background-image: url("kurapcomics/Images/About.jpg");
   margin-top: 50px;
 }
 
@@ -155,12 +155,9 @@ a:hover{
   margin-top: 50px;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url("Images/AboutCreator.jpg");
+  background-image: url("kurapcomics/Images/AboutCreator.jpg");
   border: 5px solid white;
 }
-
-
-
 
 #footnote{
   margin-top: 20px;
